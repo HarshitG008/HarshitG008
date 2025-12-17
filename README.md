@@ -1,17 +1,14 @@
 🚀 Tech Stack & Tools
-Languages: JavaScript | TypeScript | Python | Java | C++
+Languages Learning: JavaScript | TypeScript | Python | Java | C++
 
-Frameworks: React | Node.js | Express | Django | Flask
+Goal Frameworks: React | Node.js | Express | Django | Flask
 
-Databases: PostgreSQL | MongoDB | MySQL | Redis
+Currently Learning Databases: PostgreSQL | MongoDB | MySQL | Redis
 
 DevOps & Tools: Docker | Git | GitHub Actions | AWS | Linux
 
-Other Skills: REST APIs | GraphQL | CI/CD | Microservices | TDD
+Other Skills: Adobe and Canva
 
 🌱 Currently Learning
-Rust and systems programming
+Python,Java,Data Science Basics
 
-Advanced DevOps practices with Kubernetes
-
-Building better UI/UX with Tailwind CSS and design systems
